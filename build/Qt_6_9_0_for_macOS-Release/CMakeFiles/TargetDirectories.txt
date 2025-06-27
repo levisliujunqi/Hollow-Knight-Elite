@@ -1,0 +1,9 @@
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/game.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/list_install_components.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/install.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/install/local.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/install/strip.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/game_autogen_timestamp_deps.dir
+/Users/junqiliu/game/game/build/Qt_6_9_0_for_macOS-Release/CMakeFiles/game_autogen.dir
